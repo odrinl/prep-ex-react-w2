@@ -1,6 +1,5 @@
 {
   "name": "random-user",
-  "homepage": "https://github.com/odrinl/prep-ex-react-week2.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,8 +12,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -37,12 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {
-    "gh-pages": "^6.0.0"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }
