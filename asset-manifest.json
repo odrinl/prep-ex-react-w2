@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/random-user/static/css/main.073c9b0a.css",
-    "main.js": "/random-user/static/js/main.ced31511.js",
-    "static/js/787.4455fb1e.chunk.js": "/random-user/static/js/787.4455fb1e.chunk.js",
-    "index.html": "/random-user/index.html",
-    "main.073c9b0a.css.map": "/random-user/static/css/main.073c9b0a.css.map",
-    "main.ced31511.js.map": "/random-user/static/js/main.ced31511.js.map",
-    "787.4455fb1e.chunk.js.map": "/random-user/static/js/787.4455fb1e.chunk.js.map"
+    "main.css": "/prep-ex-react-w2/static/css/main.073c9b0a.css",
+    "main.js": "/prep-ex-react-w2/static/js/main.9c3dcd01.js",
+    "static/js/787.4455fb1e.chunk.js": "/prep-ex-react-w2/static/js/787.4455fb1e.chunk.js",
+    "index.html": "/prep-ex-react-w2/index.html",
+    "main.073c9b0a.css.map": "/prep-ex-react-w2/static/css/main.073c9b0a.css.map",
+    "main.9c3dcd01.js.map": "/prep-ex-react-w2/static/js/main.9c3dcd01.js.map",
+    "787.4455fb1e.chunk.js.map": "/prep-ex-react-w2/static/js/787.4455fb1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ced31511.js"
+    "static/js/main.9c3dcd01.js"
   ]
 }
